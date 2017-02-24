@@ -4327,8 +4327,8 @@ ul.posts:not(.post-grid) {
   position: absolute;
   left: 50%;
   top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, 40%);
+          transform: translate(-50%, 40%);
   text-align: center;
   width: 80%;
 }
